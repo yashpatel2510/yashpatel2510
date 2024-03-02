@@ -35,14 +35,14 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <br/>
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="">
 
-<a href="https://www.linkedin.com/in/yash-patel-b96017233/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:yap532002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/yash-patel-b96017233/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yash%patel%-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-yash patel__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:yap532002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yap532002@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
