@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1097096248173006920/1213401796530409512/IMG_9706_copy.jpg?ex=65f5577c&is=65e2e27c&hm=27696c773be26cd1e90ba70eeb2ff186c9a28ad6f3a98cb8e3301d5fb9f1f274&" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://cdn.discordapp.com/attachments/1097096248173006920/1213401796530409512/IMG_9706_copy.jpg?ex=66237bfc&is=661106fc&hm=da9ffcf7878f2cc2a61a982ba39e581254be3f6540dc7e469bee9938149836f4&" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
